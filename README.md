@@ -1,8 +1,9 @@
 # Roseanne Nguyen's Portfolio
+My name is Roseanne Nguyen, and I am currently a Full Stack Web Development student through the University of Arizona. Check out my portfolio below!
 
 ## Deployed-Link
 
-https://roseannenguyen.github.io/portfolio/
+https://roseannenguyen.github.io/Portfolio/
 
 # Below are two projects mentioned in this portfolio:
 
@@ -31,7 +32,7 @@ The Date night application is designed to help individuals plan the perfect dinn
 #### Desktop search example Screenshot
 ![Screenshot of main webpage result example](images/desktop-search-result-sample-screenshot.png)
 
-####Technologies-Used
+#### Technologies-Used
 
 * [Yelp API](https://www.yelp.com/developers/documentation/v3)
 * [TMDB API](https://www.themoviedb.org/documentation/api)
