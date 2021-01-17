@@ -57,6 +57,6 @@ https://github.com/roseannenguyen/Date-Night-API
 
 Email: nguyen.roseanne@outlook.com
 
-#### License
+## License
 
 Licensed under [MIT](https://choosealicense.com/licenses/mit/) license.
