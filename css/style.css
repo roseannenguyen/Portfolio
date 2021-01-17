@@ -1,0 +1,24 @@
+ body {
+    padding-top: 56px;
+  }
+  
+  .navbar-custom {
+      background-color: #313e58;
+  }
+
+  .btn-custom1 {
+      background-color: #8ab1cf;
+  }
+  .btn-custom2 {
+      background-color: #445094;
+  }
+
+  .btn-custom {
+      background-color: #b09bc7;
+  } 
+
+  .card-text {
+
+    white-space: wrap;
+  }
+
