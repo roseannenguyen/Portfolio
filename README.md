@@ -6,7 +6,15 @@ My name is Roseanne Nguyen, and I am currently a Full Stack Web Development stud
 
 https://roseannenguyen.github.io/Portfolio/
 
-# Below are two projects mentioned in this portfolio:
+# Below are highlighted projects mentioned in this portfolio:
+
+### Work Day Scheduler Application Description
+
+JAR Inventory is a business tracking management application that allows any company to track product.
+
+#### Desktop Screenshot
+
+![Screenshot of main webpage](assets/header-img.PNG)
 
 ### Work Day Scheduler Application Description
 
